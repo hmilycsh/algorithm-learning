@@ -24,7 +24,7 @@ public class NumOfIsland {
 				}
 			}
 		}
-		return count++;
+		return count;
 	}
 
 	public void dfs(char[][] grid, int i, int j, int rows, int cols) {
