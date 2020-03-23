@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e7d1ab0-2a24-43fe-8b17-e81cfd1f7fa2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetCode_189_0223.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetCode_1_0223.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetCode_20_0223.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetCode_49_0223.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetCode_84_0223.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
@@ -15,38 +16,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/linkedlist/SimpleLinkedList.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="12" column="33" selection-start-line="12" selection-start-column="33" selection-end-line="12" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/LeetCode_26_0223.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/LeetCode_189_0223.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/LeetCode_1_0223.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/LeetCode_20_0223.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="28" />
+            <state relative-caret-position="240">
+              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -72,6 +46,10 @@
         <option value="$PROJECT_DIR$/src/leetcode/LeetCode_26_0223.java" />
         <option value="$PROJECT_DIR$/src/leetcode/LeetCode_189_0223.java" />
         <option value="$PROJECT_DIR$/src/leetcode/LeetCode_1_0223.java" />
+        <option value="$PROJECT_DIR$/../TEST/src/com/zzp/demo/Test.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LeetCode_49_0223.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LeetCode_84_0223.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/LeetCode_20_0223.java" />
       </list>
     </option>
   </component>
@@ -86,67 +64,16 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="algorithm-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm-learning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="algorithm-learning" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TEST" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TEST" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TEST" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TEST" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zzp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="algorithm-learning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="TEST" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="zzp" type="462c0819:PsiDirectoryNode" />
-              <item name="demo" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1583942583254" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TEST" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1584800309345" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../springboot-project/pom.xml" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -184,18 +111,21 @@
       <workItem from="1581685333901" duration="619000" />
       <workItem from="1583041436475" duration="83000" />
       <workItem from="1583941293039" duration="1558000" />
-      <workItem from="1584199344766" duration="3193000" />
+      <workItem from="1584199344766" duration="3330000" />
+      <workItem from="1584625483642" duration="449000" />
+      <workItem from="1584794853563" duration="3210000" />
+      <workItem from="1584877028878" duration="1950000" />
+      <workItem from="1584971182930" duration="1010000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6900000" />
+    <option name="totallyTimeSpent" value="13656000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23164147" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24838012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -245,22 +175,67 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/LeetCode_26_0223.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../TEST/src/com/zzp/demo/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="5" lean-forward="true" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/Map.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="184" column="12" selection-start-line="184" selection-start-column="12" selection-end-line="184" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk1.8.0_144/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="879" column="34" lean-forward="true" selection-start-line="879" selection-start-column="34" selection-end-line="879" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LeetCode_1_0223.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <caret line="11" column="43" selection-start-line="11" selection-start-column="43" selection-end-line="11" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LeetCode_49_0223.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="20" column="5" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LeetCode_84_0223.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/LeetCode_189_0223.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
-          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/LeetCode_1_0223.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/LeetCode_20_0223.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="5" column="28" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="28" />
+        <state relative-caret-position="240">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
