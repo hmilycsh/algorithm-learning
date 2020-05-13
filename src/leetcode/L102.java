@@ -13,7 +13,7 @@ public class L102 {
         dfs(root, 0);
         return new ArrayList<>(levelMap.values());
     }
-    
+
     void dfs(TreeNode root, Integer level) {
         if (root == null) return;
         levelMap.putIfAbsent(level, new ArrayList<>());
